@@ -5,3 +5,6 @@
 - Use add one smooth
 - Use 2 gram
 - Average F1: 0.919
+
+# How to use
+- Download the dataset, command line `python nblearn3.py`
